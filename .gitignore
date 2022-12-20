@@ -1,2 +1,5 @@
-ImageDownloader/.venv/
 ImageDownloader/scrapedImages/
+.venv
+scrapedImages/*
+logs/*
+.idea/*
